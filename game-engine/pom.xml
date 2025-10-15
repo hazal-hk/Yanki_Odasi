@@ -1,0 +1,6 @@
+<dependencies>
+    <dependency>
+        <groupId>com.yankiodasi</groupId>
+        <artifactId>game-api</artifactId>
+        <version>${project.version}</version> </dependency>
+</dependencies>
